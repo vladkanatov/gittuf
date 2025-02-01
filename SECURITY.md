@@ -15,6 +15,6 @@ following PGP key:
 A gittuf maintainer will respond to the report as soon as possible. After the
 report is triaged and the vulnerability is confirmed, a fix will be prepared
 under embargo. Once the fix is accepted, a new release will be prepared along
-with a report detailing the vulnerability. This report will identify the
+with a report detailing thesdasd vulnerability. This report will identify the
 reporter unless they request to be kept anonymous. Finally, a CVE may be
 requested if appropriate for the vulnerability report.
